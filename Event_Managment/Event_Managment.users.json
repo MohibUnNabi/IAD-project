@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "User_Name": "user",
+  "User_Email": "mhuzaifa0530@gmail.com",
+  "User_Password": "$2b$10$afNbrOy7/AXMuqhhe7ZlvO5lLIVvyMdIURNTQJPiQv1U7Ani4Cc/O",
+  "User_Status": "Pending",
+  "User_Role": "Attendees",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6669b61a64dc4472f87da8f0"
+  },
+  "User_Name": "ayan",
+  "User_Email": "ayan@gmail.com",
+  "User_Password": "$2b$10$IzJn5HYnKl3.P92GQE5DM.Kn1qBJCEBkqoMwulTPEZkZlurX9jKvu",
+  "User_Status": "Pending",
+  "User_Role": "Exhibitor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6669b78b64dc4472f87da8fc"
+  },
+  "User_Name": "huzaifa",
+  "User_Email": "huzaifa@gmail.com",
+  "User_Password": "$2b$10$ikTaR7pPbqgk2sSrXqxKheTTLmruYFANG352HT1djVpoXKJVoPKWu",
+  "User_Status": "Pending",
+  "User_Role": "Admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66718956fa3e760fd9a4e170"
+  },
+  "User_Name": "hamza",
+  "User_Email": "hamza@gmail.com",
+  "User_Password": "$2b$10$6.A3kwLEnpYD9hN1Vl/HMeI09AGBl2/ubHCDn4eOsin1Fq.8oWpS2",
+  "User_Status": "Pending",
+  "User_Role": "Exhibitor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66719614c6a4ac7cd9d3637c"
+  },
+  "User_Name": "wqewq",
+  "User_Email": "weqwe",
+  "User_Password": "$2b$10$lIvWh3KpYurrd0WNHBtYTuSURaUQ4vZL832NUSs7F2GSbumxWsZiC",
+  "User_Status": "Pending",
+  "User_Role": "Exhibitor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667196acc6a4ac7cd9d36380"
+  },
+  "User_Name": "fdgdgds",
+  "User_Email": "safsadsdasad",
+  "User_Password": "$2b$10$sRVNwZmjB3u/QK6z5GRPLeQqZSyFyPEIhlHgD2RgJS7ZyBvizUqgK",
+  "User_Status": "Pending",
+  "User_Role": "Exhibitor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66719733c6a4ac7cd9d36383"
+  },
+  "User_Name": "huzaifasd",
+  "User_Email": "sdfdsfsdf",
+  "User_Password": "$2b$10$XX2MpAXDj81B6jvrIG6mXugmCM3dlWzS1VYObC1nwWpbbcSGTKLAu",
+  "User_Status": "Pending",
+  "User_Role": "Exhibitor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675489dfd86a56c7de5e4a1"
+  },
+  "User_Name": "hjh",
+  "User_Email": "ghj@gmail.com",
+  "User_Password": "$2b$10$UW6Bh2HnuwAYEVItUMWQPe8UJ10a/v5NN0oBhTsxnXtrDDeIJWTTS",
+  "User_Status": "Pending",
+  "User_Role": "Attendees",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66754a85fd86a56c7de5e4aa"
+  },
+  "User_Name": "dd",
+  "User_Email": "dd",
+  "User_Password": "$2b$10$Sx/V.5EwMXaMZllHwfgPbOZBTFKWhv.Yh1sgCtw0z6VrAulv7lvkO",
+  "User_Status": "Pending",
+  "User_Role": "Exhibitor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66754b63fd86a56c7de5e4af"
+  },
+  "User_Name": "e",
+  "User_Email": "e",
+  "User_Password": "$2b$10$L6nt8OFFjrH1qiuc5ZYvy.o89l.5h0C/EYkYCcW75S2rb771KFWdC",
+  "User_Status": "Pending",
+  "User_Role": "Exhibitor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66754c65fd86a56c7de5e4b6"
+  },
+  "User_Name": "n",
+  "User_Email": "n",
+  "User_Password": "$2b$10$h6p5OIj/FFboGdEcCD5kEuMndjG44lGarNJWu3nNH3WNLGrbw60ea",
+  "User_Status": "Pending",
+  "User_Role": "Exhibitor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66754d317dab8a8f39996a1a"
+  },
+  "User_Name": "mahnoor",
+  "User_Email": "mahnoor@gmail.com",
+  "User_Password": "$2b$10$XWOysq4fzLA8oIazALC5W.5eyppRgPPGSowOxueuUI42nOiR6ozMK",
+  "User_Status": "Pending",
+  "User_Role": "Exhibitor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66754ea17dab8a8f39996a29"
+  },
+  "User_Name": "xx",
+  "User_Email": "xx",
+  "User_Password": "$2b$10$jQ4h8PHZf.cKGrwaJdSdQe9HbvwPVOWTHohI6i1pvVnIlodwsjmRy",
+  "User_Status": "Pending",
+  "User_Role": "Exhibitor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66754f5c7dab8a8f39996a2e"
+  },
+  "User_Name": "kk",
+  "User_Email": "kk",
+  "User_Password": "$2b$10$3gkUmoPioJAVnHy89dijnOh3DhfWTWSXW80pm62PAs3h9s.EP25eK",
+  "User_Status": "Pending",
+  "User_Role": "Exhibitor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667552ea91725daf73814788"
+  },
+  "User_Name": "oli",
+  "User_Email": "oli",
+  "User_Password": "$2b$10$ELQwwOY2.nJSH42FA0emrekQoCa8HazGVIoQIju0UGIKadxDk4fjq",
+  "User_Status": "Pending",
+  "User_Role": "Exhibitor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675531c91725daf7381478b"
+  },
+  "User_Name": "up",
+  "User_Email": "up",
+  "User_Password": "$2b$10$7k2DGubDMUHMy3T18AcUQOEskwNw9xFpA5HiMikxqIo8dKjUJ6nfa",
+  "User_Status": "Pending",
+  "User_Role": "Exhibitor",
+  "__v": 0
+}]

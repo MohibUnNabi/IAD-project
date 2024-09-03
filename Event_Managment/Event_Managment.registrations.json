@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "6669e55a58ae51b353f462b6"
+  },
+  "Event_id_Fk": {
+    "$oid": "6669bcdce75507feb913a4ea"
+  },
+  "ExhibitorId": {
+    "$oid": "6669b61a64dc4472f87da8f2"
+  },
+  "Booth_Name": "Apple",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6669e8c915ffc7fde7d958ac"
+  },
+  "Event_id_Fk": {
+    "$oid": "6669e77c58ae51b353f462e8"
+  },
+  "ExhibitorId": {
+    "$oid": "6669b61a64dc4472f87da8f2"
+  },
+  "Booth_Name": "Rahim Industries",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66718a06fa3e760fd9a4e326"
+  },
+  "Event_id_Fk": {
+    "$oid": "6669e77c58ae51b353f462e8"
+  },
+  "ExhibitorId": {
+    "$oid": "66718957fa3e760fd9a4e172"
+  },
+  "Booth_Name": "Nao Technology",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675572bf7334d9d04ef9af0"
+  },
+  "Event_id_Fk": {
+    "$oid": "667520245472ddd1158240b6"
+  },
+  "ExhibitorId": {
+    "$oid": "6669b61a64dc4472f87da8f2"
+  },
+  "Booth_Name": "Ayan Company",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667bc24f4f26633c4286fd2c"
+  },
+  "Event_id_Fk": {
+    "$oid": "667520245472ddd1158240b6"
+  },
+  "ExhibitorId": {
+    "$oid": "6669b61a64dc4472f87da8f2"
+  },
+  "Booth_Name": "huzaifa",
+  "__v": 0
+}]

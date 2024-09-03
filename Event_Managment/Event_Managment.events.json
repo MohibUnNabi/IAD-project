@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "6669bcdce75507feb913a4ea"
+  },
+  "Event_Name": "chaicon",
+  "Event_Location": "Main Main University Rd, Block 15 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh",
+  "Event_Date": "2024-06-16",
+  "Event_Time": "21:00",
+  "Ticket_Price": "3000",
+  "Event_Images": "1718205660270-chaicon-758x385.png",
+  "Total_Days": "3",
+  "Booth_Count": "100",
+  "Booth_Space": "10x10",
+  "Booth_Price": "20000",
+  "Guest_Speaker": [
+    "Hamza,Huzaifa,Ali"
+  ],
+  "Event_Description": "ChaiCon is a dynamic business exposition in Pakistan, offering a unique platform for entrepreneurs, investors, and industry professionals to connect, collaborate, and thrive. ",
+  "Cat_id_FK": {
+    "$oid": "6669e4cc58ae51b353f46294"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "Event_Name": "Bookcon",
+  "Event_Location": "Main Main University Rd, Block 15 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh",
+  "Event_Date": "2024-06-11",
+  "Event_Time": "11:17",
+  "Ticket_Price": "3000",
+  "Event_Images": "1718216310791-a.png",
+  "Total_Days": "3",
+  "Booth_Count": "12",
+  "Booth_Space": "10x10",
+  "Booth_Price": "43",
+  "Guest_Speaker": [
+    "Hamza,Huzaifa,Ali"
+  ],
+  "Event_Description": "The book fair was indeed a spectacle to watch. There Were hoardings everywhere \"All for books and books for all.\" Each hall was segmented into many stalls managed by the respective publishing houses. There were local publishers, National publishers and International publishers with various kinds of books.",
+  "Cat_id_FK": {
+    "$oid": "6669e4cc58ae51b353f46294"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6669e77c58ae51b353f462e8"
+  },
+  "Event_Name": "Texpo",
+  "Event_Location": "Main Main University Rd, Block 15 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh",
+  "Event_Date": "2024-06-30",
+  "Event_Time": "11:20",
+  "Ticket_Price": "3000",
+  "Event_Images": "1718216572220-a2.png",
+  "Total_Days": "3",
+  "Booth_Count": "50",
+  "Booth_Space": "10x10",
+  "Booth_Price": "20000",
+  "Guest_Speaker": [
+    "Hamza,Huzaifa,Ali"
+  ],
+  "Event_Description": "A textile fair is an exciting event that brings together entrepreneurs, business owners, industry experts, and market leaders through exhibitions, lectures, networking circles, and other attractions. The purpose is to discuss and present innovations in the textile market.",
+  "Cat_id_FK": {
+    "$oid": "6669e4cc58ae51b353f46294"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6670690250c8f10e7518d12d"
+  },
+  "Event_Name": "BookExpo",
+  "Event_Location": "Main Main University Rd, Block 15 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh",
+  "Event_Date": "2024-06-26",
+  "Event_Time": "09:35",
+  "Ticket_Price": "3000",
+  "Event_Images": "1718642946124-book.jpg",
+  "Total_Days": "3 days",
+  "Booth_Count": "50",
+  "Booth_Space": "10x10 feet",
+  "Booth_Price": "45",
+  "Guest_Speaker": [
+    "Huzaifa,Ali,Sammer"
+  ],
+  "Event_Description": "A textile fair is an exciting event that brings together entrepreneurs, business owners, industry experts, and market leaders through exhibitions, lectures, networking circles, and other attractions. The purpose is to discuss and present innovations in the textile market",
+  "Cat_id_FK": {
+    "$oid": "6669e4cc58ae51b353f46294"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667520245472ddd1158240b6"
+  },
+  "Event_Name": "TechVerse Expo",
+  "Event_Location": "Main Main University Rd, Block 15 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh",
+  "Event_Date": "2024-08-16",
+  "Event_Time": "12:30",
+  "Ticket_Price": "6000",
+  "Event_Images": "1718951972170-download.png",
+  "Total_Days": "3 ",
+  "Booth_Count": "10",
+  "Booth_Space": "10x10 feet",
+  "Booth_Price": "10000",
+  "Guest_Speaker": [
+    "Ali,Aslam,Affan,Parag"
+  ],
+  "Event_Description": "Join us at TechVerse Expo, where innovation meets inspiration in the heart of [City/Location]. This cutting-edge technology expo is your gateway to the latest advancements shaping our digital world. Whether you're an industry leader, tech enthusiast, or curious newcomer, [Expo Name] offers a dynamic platform to discover, connect, and envision the future.",
+  "Cat_id_FK": {
+    "$oid": "667163eb0fcb2ea3f51962f4"
+  },
+  "__v": 0
+}]

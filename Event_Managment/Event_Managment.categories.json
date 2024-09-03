@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "6669e4cc58ae51b353f46294"
+  },
+  "Category_Name": "Business",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667163dd0fcb2ea3f51962f1"
+  },
+  "Category_Name": "Consumer Expos",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667163eb0fcb2ea3f51962f4"
+  },
+  "Category_Name": "Technology Expos",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6671645c0fcb2ea3f51962fe"
+  },
+  "Category_Name": "Industry-Specific Expos",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667164660fcb2ea3f5196301"
+  },
+  "Category_Name": "Career and Job Fairs",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6671646e0fcb2ea3f5196304"
+  },
+  "Category_Name": "Education Expos",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6671647b0fcb2ea3f5196307"
+  },
+  "Category_Name": "Travel and Tourism",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667164850fcb2ea3f519630a"
+  },
+  "Category_Name": "Health and Wellness",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6671648d0fcb2ea3f519630d"
+  },
+  "Category_Name": "Art and Craft",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6671649a0fcb2ea3f5196310"
+  },
+  "Category_Name": "Food and Beverage",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667164a40fcb2ea3f5196313"
+  },
+  "Category_Name": "Real Estate",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667164af0fcb2ea3f5196316"
+  },
+  "Category_Name": "Fashion Expos",
+  "__v": 0
+}]

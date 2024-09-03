@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Eventalk - Free Bootstrap 4 Template by Colorlib</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link href="https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+
+  <link rel="stylesheet" href="%PUBLIC_URL%/css/open-iconic-bootstrap.min.css">
+  <link rel="stylesheet" href="%PUBLIC_URL%/css/animate.css">
+
+  <link rel="stylesheet" href="%PUBLIC_URL%/css/owl.carousel.min.css">
+  <link rel="stylesheet" href="%PUBLIC_URL%/css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="%PUBLIC_URL%/css/magnific-popup.css">
+
+  <link rel="stylesheet" href="%PUBLIC_URL%/css/aos.css">
+
+  <link rel="stylesheet" href="%PUBLIC_URL%/css/ionicons.min.css">
+
+  <link rel="stylesheet" href="%PUBLIC_URL%/css/bootstrap-datepicker.css">
+  <link rel="stylesheet" href="%PUBLIC_URL%/css/jquery.timepicker.css">
+
+  <link rel="stylesheet" href="%PUBLIC_URL%/css/flaticon.css">
+  <link rel="stylesheet" href="%PUBLIC_URL%/css/icomoon.css">
+  <link rel="stylesheet" href="%PUBLIC_URL%/css/style.css">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    .signup-form {
+      width: 400px;
+      margin: 50px auto;
+      padding: 30px 25px;
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .signup-form h2 {
+      margin: 0 0 15px;
+      text-align: center;
+    }
+
+    .signup-form .form-group {
+      margin-bottom: 20px;
+    }
+
+    .signup-form .btn {
+      font-size: 16px;
+      font-weight: bold;
+      min-width: 140px;
+      outline: none !important;
+    }
+
+    .signup-form .hint-text {
+      text-align: center;
+      padding-top: 10px;
+      font-size: 13px;
+    }
+
+    .eventName {
+      font-size: 20px !important;
+    }
+
+    .dropdown {
+      position: relative;
+      display: inline-block;
+    }
+
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+      z-index: 1;
+    }
+
+    .dropdown-content a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+    }
+
+    .dropdown-content a:hover {
+      background-color: #f1f1f1;
+    }
+
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+    .contact{
+      height: 500;
+    }
+  </style>
+</head>
+
+<body>
+
+  <nav class="navbar navbar-expand-lg navbar-light ftco_navbar bg-light ftco-navbar-light" id="ftco-navbar">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">Event<span>Sphere.</span></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
+        aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="oi oi-menu"></span> Menu
+      </button>
+
+      <div class="collapse navbar-collapse" id="ftco-nav">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active"><a href="/Userdashboard" class="nav-link">Home</a></li>
+
+          <li class="nav-item"><a href="/Event" class="nav-link">Event</a></li>
+
+          <li class="nav-item"><a href="/contact" class="nav-link">Contact</a></li>
+          <li class="nav-item cta mr-md-2" id="signup"><a href="/signup" class="nav-link">Sign up </a></li>
+          <li class="nav-item cta mr-md-2 dropdown" id="login">
+            <a href="#" class="nav-link">Login </a>
+            <div class="dropdown-content">
+              <a href="http://localhost:3000/login">Exhibitor</a>
+              <a href="/login">Attendee</a>
+
+            </div>
+          </li>
+
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+
+  <!-- END nav -->
+
+
+  <div id="root"></div>
+  <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+
+  <!-- END nav -->
+  <script>
+    const role = localStorage.getItem('role');
+    const userToken = localStorage.getItem('User_token');
+    const adminToken = localStorage.getItem('Admin_token');
+    const exhibitorToken = localStorage.getItem('Exhibitor_token');
+    const tokensExist = userToken ;
+    const login = document.getElementById("login");
+    const signup = document.getElementById("signup");
+    if (!tokensExist) {
+      login.style.display = 'block';
+      signup.style.display = 'block';
+   
+    } else{
+      login.style.display = 'block';
+      signup.style.display = 'block';
+    }
+    </script>
+
+
+  <footer class="ftco-footer ftco-bg-dark ftco-section">
+    <div class="container">
+      <div class="row mb-5">
+        <div class="col-md">
+          <div class="ftco-footer-widget mb-4">
+            <h2 class="ftco-heading-2">Eventalk</h2>
+            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
+              blind texts.</p>
+            <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
+              <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+              <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+              <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md">
+          <div class="ftco-footer-widget mb-4 ml-md-5">
+            <h2 class="ftco-heading-2">Useful Links</h2>
+            <ul class="list-unstyled">
+              <li><a href="#" class="py-2 d-block">Speakers</a></li>
+              <li><a href="#" class="py-2 d-block">Shcedule</a></li>
+              <li><a href="#" class="py-2 d-block">Events</a></li>
+              <li><a href="#" class="py-2 d-block">Blog</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md">
+          <div class="ftco-footer-widget mb-4">
+            <h2 class="ftco-heading-2">Privacy</h2>
+            <ul class="list-unstyled">
+              <li><a href="#" class="py-2 d-block">Career</a></li>
+              <li><a href="#" class="py-2 d-block">About Us</a></li>
+              <li><a href="#" class="py-2 d-block">Contact Us</a></li>
+              <li><a href="#" class="py-2 d-block">Services</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md">
+          <div class="ftco-footer-widget mb-4">
+            <h2 class="ftco-heading-2">Have a Questions?</h2>
+            <div class="block-23 mb-3">
+              <ul>
+                <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San
+                    Francisco, California, USA</span></li>
+                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
+                <li><a href="#"><span class="icon icon-envelope"></span><span
+                      class="text">info@yourdomain.com</span></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12 text-center">
+
+          <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy;
+            <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with
+            <i class="icon-heart color-danger" aria-hidden="true"></i> by <a href="https://colorlib.com"
+              target="_blank">Colorlib</a>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById('logout-link').addEventListener('click', function(event) {
+        event.preventDefault(); 
+        if (confirm('Are you sure you want to logout?')) {
+      
+            localStorage.clear();
+          
+            window.location.href = '/login'; 
+        }
+    });
+</script> 
+
+
+  <!-- loader -->
+  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px">
+      <circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" />
+      <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10"
+        stroke="#F96D00" />
+    </svg></div>
+
+
+  <script src="%PUBLIC_URL%/js/jquery.min.js"></script>
+  <script src="%PUBLIC_URL%/js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="%PUBLIC_URL%/js/popper.min.js"></script>
+  <script src="%PUBLIC_URL%/js/bootstrap.min.js"></script>
+  <script src="%PUBLIC_URL%/js/jquery.easing.1.3.js"></script>
+  <script src="%PUBLIC_URL%/js/jquery.waypoints.min.js"></script>
+  <script src="%PUBLIC_URL%/js/jquery.stellar.min.js"></script>
+  <script src="%PUBLIC_URL%/js/owl.carousel.min.js"></script>
+  <script src="%PUBLIC_URL%/js/jquery.magnific-popup.min.js"></script>
+  <script src="%PUBLIC_URL%/js/aos.js"></script>
+  <script src="%PUBLIC_URL%/js/jquery.animateNumber.min.js"></script>
+  <script src="%PUBLIC_URL%/js/bootstrap-datepicker.js"></script>
+  <script src="%PUBLIC_URL%/js/jquery.timepicker.min.js"></script>
+  <script src="%PUBLIC_URL%/js/scrollax.min.js"></script>
+  <script
+    src="%PUBLIC_URL%/https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+
+  <script src="%PUBLIC_URL%/js/main.js"></script>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

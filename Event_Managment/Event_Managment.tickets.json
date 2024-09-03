@@ -1,0 +1,381 @@
+[{
+  "_id": {
+    "$oid": "666a15dab5afc3db54625ba2"
+  },
+  "Ticket_Price": "3000",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666a15efb5afc3db54625ba8"
+  },
+  "Ticket_Price": "3000",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666a21a08ae4ff9371dae773"
+  },
+  "Ticket_Price": "3000",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666a22094c610321afb221e0"
+  },
+  "Ticket_Price": "3000",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ac035bdc51b72df2558b9"
+  },
+  "Ticket_Price": "3000",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ac22efdc7178acb15898a"
+  },
+  "Ticket_Price": "3000",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ac25bfdc7178acb158998"
+  },
+  "Ticket_Price": "3000",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ac28bfdc7178acb1589a6"
+  },
+  "Ticket_Price": "3000",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ac2e09b0644e02b16097b"
+  },
+  "Ticket_Price": "3000",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ac7c9494b400b2d73db4d"
+  },
+  "Ticket_Price": "3000",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ac8eaa1662a312893e6c6"
+  },
+  "Ticket_Price": "3000",
+  "Event_id_Fk": {
+    "$oid": "6669bcdce75507feb913a4ea"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666acdf6942914c5adbbfcea"
+  },
+  "Ticket_Price": "3000",
+  "Ticket_Quantity": "2",
+  "Event_id_Fk": {
+    "$oid": "6669bcdce75507feb913a4ea"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ad764942914c5adbbfdd7"
+  },
+  "Ticket_Price": "3000",
+  "Ticket_Quantity": "2",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ad765942914c5adbbfdda"
+  },
+  "Ticket_Price": "3000",
+  "Ticket_Quantity": "2",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ad765942914c5adbbfddd"
+  },
+  "Ticket_Price": "3000",
+  "Ticket_Quantity": "2",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ad766942914c5adbbfde0"
+  },
+  "Ticket_Price": "3000",
+  "Ticket_Quantity": "2",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ad766942914c5adbbfde3"
+  },
+  "Ticket_Price": "3000",
+  "Ticket_Quantity": "2",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ad766942914c5adbbfde6"
+  },
+  "Ticket_Price": "3000",
+  "Ticket_Quantity": "2",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ad766942914c5adbbfde9"
+  },
+  "Ticket_Price": "3000",
+  "Ticket_Quantity": "2",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ad76e942914c5adbbfdec"
+  },
+  "Ticket_Price": "3000",
+  "Ticket_Quantity": "2",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666add3a942914c5adbbfdf7"
+  },
+  "Ticket_Price": "3000",
+  "Ticket_Quantity": "sdd",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666addef942914c5adbbfe12"
+  },
+  "Ticket_Price": "3000",
+  "Ticket_Quantity": "undefined",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666adf15942914c5adbbfe3d"
+  },
+  "Ticket_Price": "3000",
+  "Ticket_Quantity": "2",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666beba6785d516d33d7535e"
+  },
+  "Ticket_Price": "3000",
+  "Ticket_Quantity": "2",
+  "Event_id_Fk": {
+    "$oid": "6669e67658ae51b353f462c8"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6673fc6a6ce9e2ea0f6a8dd3"
+  },
+  "Ticket_Price": "ss",
+  "Ticket_Quantity": "2",
+  "Event_id_Fk": {
+    "$oid": "667165560fcb2ea3f5196327"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667526085472ddd115824129"
+  },
+  "Ticket_Price": "6000",
+  "Ticket_Quantity": "2",
+  "Event_id_Fk": {
+    "$oid": "667520245472ddd1158240b6"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667554bbf7334d9d04ef9aa0"
+  },
+  "Ticket_Price": "3000",
+  "Ticket_Quantity": "2",
+  "Event_id_Fk": {
+    "$oid": "6670690250c8f10e7518d12d"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667bc0ee4f26633c4286fce7"
+  },
+  "Ticket_Price": "3000",
+  "Ticket_Quantity": "2",
+  "Event_id_Fk": {
+    "$oid": "6670690250c8f10e7518d12d"
+  },
+  "User_id_Fk": {
+    "$oid": "6669b48664dc4472f87da8eb"
+  },
+  "__v": 0
+}]
